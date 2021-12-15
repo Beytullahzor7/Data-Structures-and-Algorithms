@@ -43,3 +43,24 @@ Best Case
 ```
 Average Case
 ```
+
+# Merge Sort
+
+```
+[16,21,11,8,12,22]
+```
+
+##### Yukarıda verilen dizinin Merge sort türüne göre aşamalarını yazınız.
+
+<ul>
+<li>Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+<li>Big-O gösterimini yazınız.</li>
+</ul> 
+
+```
+Her aşama için O(n) gelir.
+n = 2^x
+logn = x
+O(n logn)
+```
+
